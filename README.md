@@ -1,5 +1,5 @@
 # Unitale-Gaster
-Unitale Gaster fight I made ages ago.
+Unitale Gaster fight I made ages ago, recently updated to fix some bugs, do a little polishing, and hopefully make it playable for the forseeable future.
 # In order to play the game
 1. Download Unitale (NOT CYF) from https://www.reddit.com/r/unitale
 2. Download and extract this repository
