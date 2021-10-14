@@ -33,7 +33,7 @@ m10 = {"[effect:twitch,50]WELL, I (WAS/\nAM/WILL\nBE) DONE\nSTANDING IDLY\nBY.",
 
 monologue = {m1,m2,m3,m4,m5,m6,m7,m8,m9,m10}
 
-SetGlobal("debugmode",true) --LeAVE tHiS FALSE. You HAvE BeEn WARNED.
+SetGlobal("debugmode",false) --LeAVE tHiS FALSE. You HAvE BeEn WARNED.
 
 enemies = {
 	"gaster" 
